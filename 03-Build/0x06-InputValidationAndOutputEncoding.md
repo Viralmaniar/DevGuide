@@ -1,8 +1,7 @@
 # Input validation and output encoding
 
 ## Background
-
-
+Majority of today’s applications get exploited because it fails to validate the input coming from users, files, 3rd party applications, infrastructure, external entities, database systems or by other processes. Almost every application on the web requires some sort of input from the listed entity. These input sources can be a great starting point for an attacker. Hence, all the inputs to an application must be checked and validated before processing it. 
 ## Principles (if any)
 
 
